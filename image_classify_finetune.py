@@ -124,7 +124,7 @@ def test(args):
 	# load model
 	model_path = args["rootdir"] + args['model_path']
 	model = load_model(os.path.join(model_path, "model_weights.h5"))
-	print("[INFO] Model loading success. Start testing... ")
+	print("\n[INFO] Model loading success. Start testing... ")
 
 	# prediction
 	h = args['height']
