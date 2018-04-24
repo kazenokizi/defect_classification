@@ -1,5 +1,7 @@
 # Defect classificaiton using NEU dataset
 
+A simple, binary classification using [Xception](https://arxiv.org/abs/1610.02357) model which was pretrained and of which the weights file can be fetched from [Keras](https://github.com/keras-team/keras)
+
 ## Dataset
 [NEU surface defect database](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
 
